@@ -52,6 +52,6 @@ The project focuses mainly on practicing HTML structure and CSS styling without 
 ```text
 HTML-CSS-Quiz/
 │
-├── index.html
+├── quiz.html
 ├── quiz.css
 └── README.md
